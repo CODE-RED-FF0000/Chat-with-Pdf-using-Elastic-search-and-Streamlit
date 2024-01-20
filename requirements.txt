@@ -1,0 +1,6 @@
+﻿Pandas
+PyPDF2
+langchain
+sentence-transformers
+elasticsearch
+streamlit
